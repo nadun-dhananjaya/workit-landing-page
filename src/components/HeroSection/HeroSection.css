@@ -1,0 +1,6 @@
+.hero {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 768 541' fill='none'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0 0H768V504C768 504 577.579 540.236 385.067 540.236C192.554 540.236 0 504 0 504V0Z' fill='%2324053E'/%3E%3C/svg%3E");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
